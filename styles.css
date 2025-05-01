@@ -1,0 +1,29 @@
+body {
+  background-color: #5f58ca;
+}
+
+.add-course {
+  padding: 40px 0;
+}
+
+.add-course h1 {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+form {
+  background: #ffffff;
+  padding: 30px;
+  border-radius: 12px;
+}
+
+table {
+  background: #5f58ca;
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+#deleteBtn {
+  display: block;
+  margin: auto;
+}
